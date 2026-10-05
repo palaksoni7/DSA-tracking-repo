@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/palaksoni7/DSA-tracking-repo/tree/master/0001-two-sum) |
 | [0189-rotate-array](https://github.com/palaksoni7/DSA-tracking-repo/tree/master/0189-rotate-array) |
+| [0485-max-consecutive-ones](https://github.com/palaksoni7/DSA-tracking-repo/tree/master/0485-max-consecutive-ones) |
 ## Hash Table
 |  |
 | ------- |
