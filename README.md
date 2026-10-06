@@ -12,6 +12,7 @@
 | [0268-missing-number](https://github.com/palaksoni7/DSA-tracking-repo/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/palaksoni7/DSA-tracking-repo/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/palaksoni7/DSA-tracking-repo/tree/master/0485-max-consecutive-ones) |
+| [0704-binary-search](https://github.com/palaksoni7/DSA-tracking-repo/tree/master/0704-binary-search) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/palaksoni7/DSA-tracking-repo/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
@@ -35,6 +36,7 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/palaksoni7/DSA-tracking-repo/tree/master/0268-missing-number) |
+| [0704-binary-search](https://github.com/palaksoni7/DSA-tracking-repo/tree/master/0704-binary-search) |
 ## Bit Manipulation
 |  |
 | ------- |
