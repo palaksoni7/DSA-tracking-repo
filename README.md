@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/palaksoni7/DSA-tracking-repo/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/palaksoni7/DSA-tracking-repo/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0048-rotate-image](https://github.com/palaksoni7/DSA-tracking-repo/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/palaksoni7/DSA-tracking-repo/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/palaksoni7/DSA-tracking-repo/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/palaksoni7/DSA-tracking-repo/tree/master/0169-majority-element) |
@@ -24,6 +25,7 @@
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/palaksoni7/DSA-tracking-repo/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/palaksoni7/DSA-tracking-repo/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/palaksoni7/DSA-tracking-repo/tree/master/0268-missing-number) |
 ## Two Pointers
@@ -69,6 +71,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/palaksoni7/DSA-tracking-repo/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/palaksoni7/DSA-tracking-repo/tree/master/0054-spiral-matrix) |
 ## Quicksort
 |  |
