@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/palaksoni7/DSA-tracking-repo/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/palaksoni7/DSA-tracking-repo/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0031-next-permutation](https://github.com/palaksoni7/DSA-tracking-repo/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/palaksoni7/DSA-tracking-repo/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/palaksoni7/DSA-tracking-repo/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/palaksoni7/DSA-tracking-repo/tree/master/0054-spiral-matrix) |
@@ -33,6 +34,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/palaksoni7/DSA-tracking-repo/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0031-next-permutation](https://github.com/palaksoni7/DSA-tracking-repo/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/palaksoni7/DSA-tracking-repo/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/palaksoni7/DSA-tracking-repo/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/palaksoni7/DSA-tracking-repo/tree/master/0283-move-zeroes) |
