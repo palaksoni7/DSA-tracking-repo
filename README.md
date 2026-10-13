@@ -15,6 +15,7 @@
 | [0189-rotate-array](https://github.com/palaksoni7/DSA-tracking-repo/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/palaksoni7/DSA-tracking-repo/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/palaksoni7/DSA-tracking-repo/tree/master/0283-move-zeroes) |
+| [0410-split-array-largest-sum](https://github.com/palaksoni7/DSA-tracking-repo/tree/master/0410-split-array-largest-sum) |
 | [0485-max-consecutive-ones](https://github.com/palaksoni7/DSA-tracking-repo/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/palaksoni7/DSA-tracking-repo/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/palaksoni7/DSA-tracking-repo/tree/master/0875-koko-eating-bananas) |
@@ -51,6 +52,7 @@
 | [0035-search-insert-position](https://github.com/palaksoni7/DSA-tracking-repo/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/palaksoni7/DSA-tracking-repo/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/palaksoni7/DSA-tracking-repo/tree/master/0268-missing-number) |
+| [0410-split-array-largest-sum](https://github.com/palaksoni7/DSA-tracking-repo/tree/master/0410-split-array-largest-sum) |
 | [0704-binary-search](https://github.com/palaksoni7/DSA-tracking-repo/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/palaksoni7/DSA-tracking-repo/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/palaksoni7/DSA-tracking-repo/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -101,4 +103,16 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/palaksoni7/DSA-tracking-repo/tree/master/0069-sqrtx) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0410-split-array-largest-sum](https://github.com/palaksoni7/DSA-tracking-repo/tree/master/0410-split-array-largest-sum) |
+## Greedy
+|  |
+| ------- |
+| [0410-split-array-largest-sum](https://github.com/palaksoni7/DSA-tracking-repo/tree/master/0410-split-array-largest-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0410-split-array-largest-sum](https://github.com/palaksoni7/DSA-tracking-repo/tree/master/0410-split-array-largest-sum) |
 <!---LeetCode Topics End-->
