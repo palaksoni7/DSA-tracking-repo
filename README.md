@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/palaksoni7/DSA-tracking-repo/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/palaksoni7/DSA-tracking-repo/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/palaksoni7/DSA-tracking-repo/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/palaksoni7/DSA-tracking-repo/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/palaksoni7/DSA-tracking-repo/tree/master/0035-search-insert-position) |
@@ -50,6 +51,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/palaksoni7/DSA-tracking-repo/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/palaksoni7/DSA-tracking-repo/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/palaksoni7/DSA-tracking-repo/tree/master/0069-sqrtx) |
 | [0162-find-peak-element](https://github.com/palaksoni7/DSA-tracking-repo/tree/master/0162-find-peak-element) |
@@ -74,6 +76,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/palaksoni7/DSA-tracking-repo/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/palaksoni7/DSA-tracking-repo/tree/master/0169-majority-element) |
 ## Counting
 |  |
