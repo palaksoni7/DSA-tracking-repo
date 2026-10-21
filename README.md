@@ -16,6 +16,7 @@
 | [0162-find-peak-element](https://github.com/palaksoni7/DSA-tracking-repo/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/palaksoni7/DSA-tracking-repo/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/palaksoni7/DSA-tracking-repo/tree/master/0189-rotate-array) |
+| [0240-search-a-2d-matrix-ii](https://github.com/palaksoni7/DSA-tracking-repo/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/palaksoni7/DSA-tracking-repo/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/palaksoni7/DSA-tracking-repo/tree/master/0283-move-zeroes) |
 | [0410-split-array-largest-sum](https://github.com/palaksoni7/DSA-tracking-repo/tree/master/0410-split-array-largest-sum) |
@@ -57,6 +58,7 @@
 | [0069-sqrtx](https://github.com/palaksoni7/DSA-tracking-repo/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/palaksoni7/DSA-tracking-repo/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/palaksoni7/DSA-tracking-repo/tree/master/0162-find-peak-element) |
+| [0240-search-a-2d-matrix-ii](https://github.com/palaksoni7/DSA-tracking-repo/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/palaksoni7/DSA-tracking-repo/tree/master/0268-missing-number) |
 | [0410-split-array-largest-sum](https://github.com/palaksoni7/DSA-tracking-repo/tree/master/0410-split-array-largest-sum) |
 | [0704-binary-search](https://github.com/palaksoni7/DSA-tracking-repo/tree/master/0704-binary-search) |
@@ -80,6 +82,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/palaksoni7/DSA-tracking-repo/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/palaksoni7/DSA-tracking-repo/tree/master/0169-majority-element) |
+| [0240-search-a-2d-matrix-ii](https://github.com/palaksoni7/DSA-tracking-repo/tree/master/0240-search-a-2d-matrix-ii) |
 ## Counting
 |  |
 | ------- |
@@ -99,6 +102,7 @@
 | [0048-rotate-image](https://github.com/palaksoni7/DSA-tracking-repo/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/palaksoni7/DSA-tracking-repo/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/palaksoni7/DSA-tracking-repo/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/palaksoni7/DSA-tracking-repo/tree/master/0240-search-a-2d-matrix-ii) |
 ## Quicksort
 |  |
 | ------- |
